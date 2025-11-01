@@ -1,0 +1,116 @@
+.s2{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 180px;
+    justify-content: center;
+}
+.s3{
+    height: 250px;
+    width: 100%;
+    background-color: #107731;
+    background-image: url("/Homedecor-layout/homeimg/wide-sofa.jpg");
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    justify-content: center;
+}
+.s4{
+    width: 100%;
+    height: 1000px;
+    display: flex;
+    flex-direction: row;
+
+}
+.d1{
+    width: 1200px;
+    height: 1000px;
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.d2{
+    width: 550px;
+    height: 1200px;
+    background-color:antiquewhite;
+    margin-top: 50px;
+}
+
+
+.a1{
+    font-size: 20px;
+}
+.a2{
+    color: #107731;
+    font-size: 18px;
+    text-decoration: none;
+}
+.dim1{
+    margin: 40px;
+    height: 170px;
+    width: 170px;
+    border-radius: 50%;
+    background-color: white;
+}
+.im{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.boxd1{
+    height: 300px;
+    width: 100;
+    border-bottom: 3px solid rgb(235, 214, 186);
+     display: flex;
+    flex-direction: row;
+   
+}
+.boxd2{
+    margin-top: 15px;
+    height: 300px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+     border-bottom: 3px solid rgb(235, 214, 186);
+}
+.boxd3{
+    height: 300px;
+    width: 100%;
+     display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+.phd1{
+    width: 600px;
+    height: 300px;
+}
+.phd2{
+    width: 600px;
+    height: 300px;
+}
+.phd3{
+ width: 400px;
+    height: 500px;
+    border: 3px solid rgb(235, 214, 186);
+    border-radius: 10px;
+}
+.fotod1{
+    height: 100px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+.im2{
+    border-radius: 50%;
+}
+.manage{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 100px;
+    row-gap: 70px;
+    margin-top: 50px;
+}
